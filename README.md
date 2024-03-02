@@ -1,6 +1,6 @@
 # SaaS Contract Analysis with Python
 
-Author: Eliza Bui
+Author: Eliza Bui <br />
 Date: Feb 2024
 
 ## Overview
